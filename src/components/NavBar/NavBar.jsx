@@ -1,6 +1,7 @@
 import React from 'react'
 import "./NavBar.css"
 import Logo from "../../assets/logoProvisorio.png"
+import CartWidget from "../CartWidget/CartWidget"
 
 const NavBar = () => {
   return (
@@ -12,6 +13,7 @@ const NavBar = () => {
           <a href="">Productos</a>
           <a href="">Pago</a>
         </nav>
+        < CartWidget />
     </header>
     
   )
