@@ -7,10 +7,9 @@ function App() {
   const greeting = "Bienvenidos, tienda en construcción."
   return (
     <>
-    <NavBar/>
-    <ItemListContainer greeting={greeting} />
-
-    </>
+      <NavBar/>
+      <ItemListContainer greeting={greeting} />
+    </>  
   );
 }
 
