@@ -10,7 +10,6 @@ const products = [
   {id:'05', name:'random5', description:"Estamos renovando para ti", precio: '$2500', img:'https://picsum.photos/205', stock:4},
   {id:'07', name:'random7', description:"Estamos renovando para ti", precio: '$2500', img:'https://picsum.photos/204', stock:4},
   {id:'08', name:'random8', description:"Estamos renovando para ti", precio: '$2500', img:'https://picsum.photos/200', stock:4},
-
   
 ]
 

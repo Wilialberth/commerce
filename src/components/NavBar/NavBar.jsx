@@ -9,9 +9,9 @@ const NavBar = () => {
         <img src= {Logo} alt="Logo provisorio" />
         <h1>👨‍💻 Mi tienda Jiménez 👨‍💻</h1>
         <nav>
-          <a href="">Inicio</a>
-          <a href="">Productos</a>
-          <a href="">Pago</a>
+          <a className='list' href="">Inicio</a>
+          <a className='list' href="">Productos</a>
+          <a className='list' href="">Pago</a>
         </nav>
         < CartWidget />
     </header>
